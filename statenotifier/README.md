@@ -1,8 +1,10 @@
-# statenotifier
+# Simple Todo APP
 
 A new Flutter project.
 
 ## Getting Started
+
+Made using Hive and Statenotifier
 
 This project is a starting point for a Flutter application.
 
